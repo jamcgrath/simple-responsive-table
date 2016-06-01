@@ -3,6 +3,8 @@ Simple responsive table will take a standard HTML table and make it collapse to 
 
 It uses javascript to grab the content of the `<th>` cell and add it as a `data-attribute` to the `<td>` cells which will allow the css to place it inline with the table cell content.
 
+check out the demo https://jamcgrath.github.io/simple-responsive-table/
+
  ## How to use
 
  To use this simply copy the css and javascript files to your project and link to them in the appropriately way.
