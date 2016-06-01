@@ -5,7 +5,7 @@ It uses javascript to grab the content of the `<th>` cell and add it as a `data-
 
 check out the demo https://jamcgrath.github.io/simple-responsive-table/
 
- ## How to use
+## How to use
 
  To use this simply copy the css and javascript files to your project and link to them in the appropriately way.
 
